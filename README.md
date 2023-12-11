@@ -11,7 +11,7 @@
 <a href="https://telegram.im/@bj_tech_backup" target="_blank" class="telegramim_button telegramim_shadow telegramim_pulse" style="font-size:17px;width:195px;background:#27A5E7;box-shadow:1px 1px 5px #27A5E7;color:#FFFFFF;border-radius:37px;" title=""><i></i> Join us on Telegram</a>
 <hr>
 
-  <!DOCTYPE html>
+
 <html>
   <head>
     <title>Title of the document</title>
