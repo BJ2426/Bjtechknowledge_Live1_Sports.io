@@ -6,9 +6,9 @@
 <hr>
 <p style="font-size:20px;">Watch World Cup 2023 Free on our sports page as well as our m3u playlist for Android TV</p>
 
-<b><h1 style="background-color:White;">World Cup 2023</h1><b/>
+<b><h1 style="background-color:White;">Willo Cricket HD</h1><b/>
 <script type="text/javascript">(function() {var script=document.createElement("script");script.type="text/javascript";script.async =true;script.src="//telegram.im/widget-button/index.php?id=@bj_tech_backup";document.getElementsByTagName("head")[0].appendChild(script);})();</script>
-<a href="https://telegram.im/@bj_tech_backup" target="_blank" class="telegramim_button telegramim_shadow telegramim_pulse" style="font-size:17px;width:195px;background:#27A5E7;box-shadow:1px 1px 5px #27A5E7;color:#FFFFFF;border-radius:37px;" title=""><i></i> Join us on Telegram</a>
+<a href="https://telegram.im/@bjtech_2426" target="_blank" class="telegramim_button telegramim_shadow telegramim_pulse" style="font-size:17px;width:195px;background:#27A5E7;box-shadow:1px 1px 5px #27A5E7;color:#FFFFFF;border-radius:37px;" title=""><i></i> Join us on Telegram</a>
 <hr>
 
 
@@ -54,5 +54,5 @@ jwplayer("jwplayerDiv").setup({
  
   <p>
 <script type="text/javascript">(function() {var script=document.createElement("script");script.type="text/javascript";script.async =true;script.src="//telegram.im/widget-button/index.php?id=@bj_tech_backup";document.getElementsByTagName("head")[0].appendChild(script);})();</script>
-<a href="https://telegram.im/@bj_tech_backup" target="_blank" class="telegramim_button telegramim_shadow telegramim_pulse" style="font-size:24px;width:322px;background:#27A5E7;box-shadow:1px 1px 5px #27A5E7;color:#FFFFFF;border-radius:100px;" title=""><i></i> Join us on Telegram<small><span class="telegramim_count" data-for="@bj_tech_backup">...</span> participants</small></a>
+<a href="https://telegram.im/@bjtech_2426" target="_blank" class="telegramim_button telegramim_shadow telegramim_pulse" style="font-size:24px;width:322px;background:#27A5E7;box-shadow:1px 1px 5px #27A5E7;color:#FFFFFF;border-radius:100px;" title=""><i></i> Join us on Telegram<small><span class="telegramim_count" data-for="@bj_tech_backup">...</span> participants</small></a>
 <hr>
